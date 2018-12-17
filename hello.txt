@@ -2,3 +2,6 @@ aaaaaaa
 hello git
 bbbbbbbbbb
 cccccccccc
+add select * from user;
+delete from user where id = 1;
+select (1) from user;
